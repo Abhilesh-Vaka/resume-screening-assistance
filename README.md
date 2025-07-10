@@ -43,3 +43,7 @@ Recruiters often face the challenge of manually shortlisting hundreds of resumes
 │ └── classified_resumes.csv
 ├── 📁 outputs/
 │ └── categorized_resumes.csv
+### 🔗 Quick Access
+- [Resume Screening.ipynb](./Resume%20Screening.ipynb)
+- [requirements.txt](./requirements.txt)
+- [PDF Resumes (data/)](./data)
